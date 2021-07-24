@@ -4,6 +4,7 @@
 		"name": "Stephon Jackson"
 	},
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "test", "learn"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
